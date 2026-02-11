@@ -1,4 +1,4 @@
-**Culture of Elections (CoE) — Data Compilation**
+**Culture of Elections (CoE) — Notebooks Compilation**
 
 - **Project:** Collection of notebook analyses for the "Culture of Elections" (CoE) study.
 - **Location:** Top-level workspace containing pre- and post-election analyses across platforms.
